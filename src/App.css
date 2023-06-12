@@ -56,3 +56,10 @@ body {
   font-weight: 600;
   margin-right: 10px;
 }
+
+.input-text,
+.input-submit {
+  height: 45px;
+  outline: none;
+  border: none;
+}
