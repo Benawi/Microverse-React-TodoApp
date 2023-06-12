@@ -43,3 +43,7 @@ body {
   padding-left: 10px;
   border-radius: calc(0.5 * 100px);
 }
+
+.input-text::placeholder {
+  color: #000;
+}
