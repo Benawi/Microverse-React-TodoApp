@@ -19,5 +19,23 @@ const InputTodo = (props) => {
           alert("Please write item");
         }
       };
-    
-}
+      return (
+        <form onSubmit={handleSubmit} className="form-container">
+          <input
+            type="text"
+            className="input-text"
+            placeholder="Add todo..."
+            value={title.value}
+            name="title"
+            onChange={onChange}
+          />
+          <button className="input-submit">
+            <FaPlusCircle
+              style={{ color: "darkcyan", fontSize: "20px", marginTop: "2px" }}
+            />
+          </button>
+        </form>
+      )
+    };
+
+    export default InputTodo;
