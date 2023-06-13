@@ -26,7 +26,7 @@
 
 # 📖 Todo List React Project <a name="about-project"></a>
 
-Math Magicians React Project - Microverse! project is a repository consisting of the following files:
+Todo List React Project - Microverse! project is a repository consisting of the following files:
 - Html files
 - CSS files
 - JS files
