@@ -49,7 +49,6 @@ Math Magicians React Project - Microverse! project is a repository consisting of
 ### React Project: TODO List [Requirements](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/exercises/react_tutorial.md)
 
 ### Features Added:
-- Set up a new project with webpack 
 - Create an index.html file and 
 - To Do List placeholder (div or ul element).
 - The index.html file must be set as a template .
